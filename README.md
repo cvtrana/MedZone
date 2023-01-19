@@ -22,7 +22,7 @@ MedZone is a Web and an Android application through which a user can get nearby 
 - [ExpressJS](https://expressjs.com/)
 
 
-[product-screenshoti]: assets/homepage.jpeg
-[product-screenshotii]: assets/getdoctors.jpeg
-[product-screenshotiii]: assets/postdoctors.jpeg
-[product-screenshotiv]: assets/team.jpeg
+[product-screenshoti]: Demo/homepage.jpeg
+[product-screenshotii]: Demo/getdoctors.jpeg
+[product-screenshotiii]: Demo/postdoctors.jpeg
+[product-screenshotiv]: Demo/team.jpeg
