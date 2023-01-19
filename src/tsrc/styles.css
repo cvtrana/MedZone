@@ -690,11 +690,15 @@ body1 {
 
 .cardnew {
   position: relative;
-
 }
 
+/* .MuiAccordion-root {
+  display: inline-block;
+  vertical-align: top;
+} */
+
 .cardnew .image {
-  height: 190px;
+  height: 179px;
   width: 30em;
   margin-top: 220px;
   transition: 0.5s;
@@ -704,12 +708,12 @@ body1 {
 
 @media screen and (max-width: 1024px) {
   .cardnew .image {
-    height: 478px;
+    height: 485px;
     width: 77em;
     margin-top: 220px;
     transition: 0.5s;
     position: relative;
-    display: flex;
+    display: flex;  
   }
 }
 

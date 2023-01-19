@@ -34,7 +34,7 @@ export default function Home() {
             <button class="butttons mr-5 mb-2 text-black text-sm hover:text-white hover:bg-black">
               About
             </button>
-            <button class="butttons mr-5 rounded-lg -mt-40 text-sm text-white bg-red-500 px-4 py-2">
+            <button class="butttons mr-5 rounded-lg -mt-40 text-sm text-white bg-red-500 px-4 py-2" >
               Contact Us
             </button>
           </div>
@@ -105,20 +105,19 @@ export default function Home() {
                       <div class="xs:-ml- xl:-ml-40">
                         <p class="font-monte1 font-bold text-blackk text-sm xs:-ml-4 xl:-ml-36  -mr-8 mt-1">
                           {" "}
-                          experiences to get access the best healthcare
+                          experiences to get access to the best healthcare
                           professionals.
                         </p>
                       </div>
                     </div>
                   </div>
-                  {/* <div class="flex justify-center -ml-12"></div> */}
                 </div>
                 <div class="xs:py-16 xl:py-28  postandreceive justify-center  xl:ml-48 xl:-mr-20">
                   <div class="font-monte xs:-ml-92 lg:-mt-0 xl:ml-0 sm:py-96">
                     <div class="py wrapper xs:-mt-80 xl:-mt-60">
                       <div class=" link_wrapper">
                         <a
-                          href="./form.html"
+                          href="/post"
                           class="buttons xs:text-4xl xl:text-xs xs:rounded-2xl xl:rounded-xl"
                         >
                           <p class="xs:mt-8 xl:-mt-1"> Post </p>
@@ -142,7 +141,7 @@ export default function Home() {
                     <div class="py wrapper xs:ml-56 xl:ml-40 sm:-mt-72">
                       <div class="link_wrapper">
                         <a
-                          href="./cardDisplay.html"
+                          href="/retrieve"
                           class="buttons text-xs xs:rounded-2xl xl:rounded-xl"
                         >
                           <p class="xl:text-xs xs:text-4xl xs:mt-8 xl:mt-3"> Get my Doctor </p>
@@ -167,7 +166,7 @@ export default function Home() {
           </div>
         </div>
         <div class="-mt-100 screenend mb-64 mr-40 flex justify-end">
-          <a href="https://play.google.com/">
+          <a href="https://play.google.com/store/apps/details?id=com.niraj.medzone">
             <img
               src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
               width="140"
@@ -207,7 +206,7 @@ export default function Home() {
                   Harsh Jipkate
                 </h1>
                 <p class="card-jobtitle text-black py-4 mt-5 font-monte">
-                  Frontend Developer
+                  React Frontend Developer
                 </p>
               </div>
               <div class="card-main">
@@ -352,7 +351,7 @@ export default function Home() {
                 </h1>
                 <p class="card-jobtitle text-black py-4 font-monte ">
                   {" "}
-                  don't know why he is here{" "}
+                  React Frontend Developer {" "}
                 </p>
               </div>
               <div class="card-main">
